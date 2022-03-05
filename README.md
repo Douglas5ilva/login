@@ -1,4 +1,4 @@
-# login
+# login e Cadastro de Usuário
 
 Back-end de login sem a implementação do front-end sendo usado por qualquer outra tecnologia front-end. Foi implememtado o JWT que gera os tokens para facilitar o login do usuario. Os dados do usuário são criptografatos e armazenados em um banco de dados NoSQL(mongoDB).
 
