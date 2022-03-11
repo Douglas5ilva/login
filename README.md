@@ -14,6 +14,8 @@ Como o intuito é um back-end de cadastro e login para ser usado com qualquer ou
 
 ## Como Usar
 
-Para rodar o programa na sua maquina além de instalar as ferramentas mostradas anteriormente você vai precisar do insomia para inserir os dodos.
-Depois de baixar as ferramentas citadas, inicie o programa com node app no seu terminal, em seguida com o insomia crie as rotas POST, GET, DELETE, e pronto
-agora você pode cadastrar, fazer login, apagar, mostrar ou deletar um usuario.
+Abra o terminal 
+* node app
+* abra o navegador, na barra de pesquisa coloque http://localhost:3000
+* com o insomia crie as rotas GET, POST, DELETE, agora e so inserir os dados 
+agora você pode cadastrar, fazer login, atualizar, mostrar ou deletar um usuario.
