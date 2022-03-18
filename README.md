@@ -18,4 +18,4 @@ Abra o terminal
 * node app
 * abra o navegador, na barra de pesquisa coloque http://localhost:3000
 * com o insomia crie as rotas GET, POST, DELETE, agora e so inserir os dados 
-agora você pode cadastrar, fazer login, atualizar, mostrar ou deletar um usuario.
+agora você pode cadastrar, fazer login, atualizar, mostrar ou deletar um usuario. 
